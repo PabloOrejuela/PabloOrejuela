@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloOrejuela, I'm a Informatic Engineer.
+- 👋 Hi, I’m @PabloOrejuela and I'm a Informatic Engineer.
 - 👀 I’m interested in Developing software Web and apps for mobiles. My hobbies are to playing videogames and I'm a bass player for couple of rock bands.
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on PHP projects
